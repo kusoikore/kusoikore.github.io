@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patient on rjm</title>
-    <link>/patient/</link>
+    <link>https://kusoikore.github.io/patient/</link>
     <description>Recent content in Patient on rjm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="/patient/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://kusoikore.github.io/patient/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

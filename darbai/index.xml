@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darbais on rjm</title>
-    <link>/darbai/</link>
+    <link>https://kusoikore.github.io/darbai/</link>
     <description>Recent content in Darbais on rjm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 13 May 2021 21:32:59 +0300</lastBuildDate><atom:link href="/darbai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 21:32:59 +0300</lastBuildDate><atom:link href="https://kusoikore.github.io/darbai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pavadinimas3</title>
-      <link>/darbai/pavadinimas3/</link>
+      <link>https://kusoikore.github.io/darbai/pavadinimas3/</link>
       <pubDate>Thu, 13 May 2021 21:32:59 +0300</pubDate>
       
-      <guid>/darbai/pavadinimas3/</guid>
+      <guid>https://kusoikore.github.io/darbai/pavadinimas3/</guid>
       <description>regular
 italic
 bold
@@ -22,10 +22,10 @@ tesktas tekstas tekstas tekstas </description>
     
     <item>
       <title>Pavadinimas2</title>
-      <link>/darbai/pavadinimas2/</link>
+      <link>https://kusoikore.github.io/darbai/pavadinimas2/</link>
       <pubDate>Thu, 13 May 2021 21:32:55 +0300</pubDate>
       
-      <guid>/darbai/pavadinimas2/</guid>
+      <guid>https://kusoikore.github.io/darbai/pavadinimas2/</guid>
       <description>regular
 italic
 bold
@@ -35,10 +35,10 @@ tesktas tekstas tekstas tekstas </description>
     
     <item>
       <title>Pavadinimas</title>
-      <link>/darbai/pavadinimas/</link>
+      <link>https://kusoikore.github.io/darbai/pavadinimas/</link>
       <pubDate>Thu, 13 May 2021 20:59:12 +0300</pubDate>
       
-      <guid>/darbai/pavadinimas/</guid>
+      <guid>https://kusoikore.github.io/darbai/pavadinimas/</guid>
       <description>regular
 italic
 bold
