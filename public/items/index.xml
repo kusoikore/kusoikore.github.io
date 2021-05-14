@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items on bms</title>
+    <link>http://example.org/items/</link>
+    <description>Recent content in Items on bms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 16:08:37 +0300</lastBuildDate><atom:link href="http://example.org/items/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kusoikore_home</title>
+      <link>http://example.org/items/kusoikore/</link>
+      <pubDate>Fri, 14 May 2021 16:08:37 +0300</pubDate>
+      
+      <guid>http://example.org/items/kusoikore/</guid>
+      <description> bla bla testing page
+ </description>
+    </item>
+    
+  </channel>
+</rss>
