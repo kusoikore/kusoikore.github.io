@@ -81,7 +81,7 @@ pre {
  */
 
 a {
-  background-color: transparent;
+  background-color: #ffffff;
 }
 
 /**
@@ -384,7 +384,7 @@ pre {
 }
 
 button {
-  background-color: transparent;
+  background-color: #ffffff;
   background-image: none;
 }
 
